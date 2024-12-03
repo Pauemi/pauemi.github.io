@@ -2,4 +2,6 @@ title: Guía de implementación de Google ML Kit
 #logo
 description: Guía tutorial paso a paso para implementar Google ML Kit en tus aplicaciones Flutter
 #show_downloads: true
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
